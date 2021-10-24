@@ -1,0 +1,39 @@
+{
+  "name": "liquor-store-src-back-end-07-04-21",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "connect": "^3.7.0",
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-validator": "^6.10.0",
+    "http-errors": "~1.6.3",
+    "http-server": "^0.12.3",
+    "jade": "~1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "module_name": "^1.0.0",
+    "morgan": "~1.9.1",
+    "mysqli": "^3.0.11",
+    "swagger-jsdoc": "^7.0.0-rc.6",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "express": "~4.16.1",
+    "express-validator": "^6.10.0",
+    "http-errors": "~1.6.3",
+    "http-server": "^0.12.3",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.7",
+    "swagger-jsdoc": "^7.0.0-rc.6",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
